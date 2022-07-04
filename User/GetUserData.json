@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "message": "Usuario Verificado correctamente",
+  "data": {
+    "sso": "af87dtaw876ftaw87gti",
+    "avatar": "",
+    "banner": "",
+    "email": "dev@labbex.net",
+    "username": "ruxwez",
+    "fistname": "Ruxwez",
+    "credits": 124,
+    "tickets": 2,
+    "xcoins": 0
+  }
+}
