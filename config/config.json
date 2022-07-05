@@ -2,8 +2,8 @@
     "success": true,
     "data": {
       "IsComingSoon": true,
-      "IsManteinence": "Descripcion de prueba",
-      "content": ""
+      "IsMaintenance": "Descripcion de prueba",
+      "EmulatorIp": "emulator.labbex.net"
     }
   }
   
